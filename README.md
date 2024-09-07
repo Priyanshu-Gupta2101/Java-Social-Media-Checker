@@ -1,3 +1,5 @@
+##Note: Documentation: https://docs.google.com/document/d/1vnRDz4gRudhiMhv6pFvyZzsi-rFzodcQ0pyne1OTMyA/edit?usp=sharing
+
 # SocialMediaChecker
 
 ## Overview
