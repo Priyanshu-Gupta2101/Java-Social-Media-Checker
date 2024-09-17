@@ -3,7 +3,7 @@ Documentation: https://docs.google.com/document/d/1vnRDz4gRudhiMhv6pFvyZzsi-rFzo
 
 
 
-Video linking: https://www.loom.com/share/b4e233ae56eb408f9c79269f85ddab0a?sid=418be7b5-73eb-467b-9fda-c65c7f899adb
+[https://www.loom.com/share/b4e233ae56eb408f9c79269f85ddab0a?sid=418be7b5-73eb-467b-9fda-c65c7f899adb](https://www.loom.com/share/6272df68bd9d402299a1f400ddddcd6b?sid=9ef6089a-89f8-4bf8-9418-0505fe50213e)
 
 # SocialMediaChecker
 
